@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 -->
 😄 <b>My Name Atina Nora Haya</b> <br>
 
-
+![github stats](https://github-readme-stats.vercel.app/api?username=Atinanoraa&show_icons=true)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atinanoraa&show_icons=true&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats) <br> <br>
+<a href="https://www.instagram.com/atina.nhy" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://api.whatsapp.com/send?phone=6281228467337&text=Helloo" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%23E4405F.svg?&style=flat-square&logo=whatsapp&logoColor=dark" alt="WA"></a>
+##### Languages I use
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
